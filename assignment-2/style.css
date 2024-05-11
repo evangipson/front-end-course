@@ -1,0 +1,21 @@
+html {
+	/* use "background" and "color" to
+	 * change the web page to dark mode. */
+}
+
+body {
+	/* use "display: flex" to show content
+	 * centered horizontally. */
+}
+
+input,
+button {
+	/* style inputs and buttons to look
+	 * good in dark mode. */
+}
+
+button {
+	/* let the user know the button is
+	 * actionable by changing their cursor
+	 * into a pointer. */
+}
